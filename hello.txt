@@ -1,1 +1,7 @@
-hello!!
+6/22
+
+1.解讀function
+2.成功在QT上面跑project
+
+
+
