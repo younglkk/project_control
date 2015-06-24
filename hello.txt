@@ -1,7 +1,7 @@
 6/22
 
-1.解讀function
-2.成功在QT上面跑project
+1.解讀function -- 狀態:尚未完成
+2.成功在QT上面跑project --狀態: 還在尋求方法來執行
 
 
 
